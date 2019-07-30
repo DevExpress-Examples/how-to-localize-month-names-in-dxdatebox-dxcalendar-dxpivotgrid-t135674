@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to localize month names in dxDateBox (dxCalendar, dxPivotGrid)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t135674)**
+**[[Run Online]](https://codecentral.devexpress.com/t135674/)**
 <!-- run online end -->
 
 
